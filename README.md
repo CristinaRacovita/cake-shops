@@ -5,10 +5,10 @@ For this app I used:
 - Serialisation - to load and save shop cakes
 # Introduction
   There are two types of users: the shop employee and the admin. The admin can add/delete/edit any employees. The employee user can:
-    - access information about cakes from all existing shops
-    - create charts
-    - save the reports in csv, json and xml format 
-    - delete, insert and edit a cake from a certain shop
+- access information about cakes from all existing shops
+- create charts
+- save the reports in csv, json and xml format 
+- delete, insert and edit a cake from a certain shop
   
 # Pre-requisites
   1. Java JDK 8
